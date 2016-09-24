@@ -77,6 +77,7 @@ brew install zsh
 brew install fish
 
 brew install nvm
+brew install z
 
 # Remove outdated versions from the cellar
 brew cleanup
