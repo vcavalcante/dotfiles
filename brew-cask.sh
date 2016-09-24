@@ -14,8 +14,6 @@ brew tap caskroom/versions
 brew cask install spectacle
 brew cask install dropbox
 brew cask install gyazo
-brew cask install onepassword
-brew cask install rescuetime
 brew cask install flux
 
 # dev
@@ -40,6 +38,7 @@ brew cask install vlc
 brew cask install gpgtools
 brew cask install licecap
 brew cask install utorrent
+brew cask install alfred
 
 
 # Not on cask but I want regardless.
