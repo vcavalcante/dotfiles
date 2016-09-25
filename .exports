@@ -11,3 +11,7 @@ export LANG="en_US"
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 export PATH=$PATH:/usr/local/Cellar/mtr/0.87/sbin
+
+export PATH=$PATH:/usr/local/share/dotnet/dotnet
+
+
