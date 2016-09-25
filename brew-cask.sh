@@ -14,7 +14,6 @@ brew tap caskroom/versions
 brew cask install spectacle
 brew cask install dropbox
 brew cask install gyazo
-brew cask install flux
 
 # dev
 brew cask install iterm2
@@ -22,7 +21,7 @@ brew cask install sublime-text
 brew cask install imagealpha
 brew cask install imageoptim
 brew cask install visual-studio-code
-
+brew cask install Source Tree
 
 # browsers
 brew cask install google-chrome-canary
@@ -30,7 +29,7 @@ brew cask install firefoxnightly
 brew cask install webkit-nightly
 brew cask install chromium
 brew cask install torbrowser
-brew cask install lastpass
+
 
 # less often
 brew cask install disk-inventory-x
@@ -39,6 +38,15 @@ brew cask install gpgtools
 brew cask install licecap
 brew cask install utorrent
 brew cask install alfred
+brew cask install skype
+brew cask install spotify
+brew cask install lastpass
+brew cask install caffeine
+brew cask install dash
+brew install Caskroom/cask/evernote
+brew cask install the-unarchiver
+
+
 
 
 # Not on cask but I want regardless.
