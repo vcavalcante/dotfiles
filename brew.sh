@@ -69,6 +69,7 @@ brew install zopfli
 brew install ffmpeg --with-libvpx
 
 brew install terminal-notifier
+brew install httpie
 
 brew install android-platform-tools
 brew install pidcat   # colored logcat guy
