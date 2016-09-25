@@ -9,8 +9,7 @@
 
 * forque este repositório por sua conta e risco (que medo)
 * clone o repositório
-* *leia* e só depois rode partes do `setu-a-new-machine.sh` (lembre-se, o leia é muito importante, e tem que ler até o fim)
-  * git config precisa de atenção, leia as notas
+* *leia* o manual de como faço o meu [setup do Mac OS X](SETUP-A-NEW-MACHINE.md)
 * be happy :)
 
 
