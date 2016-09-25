@@ -116,6 +116,17 @@ sh .osx
 # set default shell to zsh
 chsh -s /bin/zsh
 
+# install oh-my-zsh https://github.com/robbyrussell/oh-my-zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+# install fonts
+#Dont forget to set themes of iterm/terminal to solarized dark 
+####Don`t forget to config font in iterm/terminal to Meslo LG M DZ Regular for Powerline
+# https://gist.github.com/agnoster/3712874
+cp ~/.dotfiles/fonts/. /Library/Fonts/
+
+
+
 
 ##############################################################################################################
 ### symlinks to link dotfiles into ~/
