@@ -22,6 +22,7 @@ brew cask install imagealpha
 brew cask install imageoptim
 brew cask install visual-studio-code
 brew cask install Source Tree
+brew cask install dotnet
 
 # browsers
 brew cask install google-chrome-canary

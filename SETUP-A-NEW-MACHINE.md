@@ -96,6 +96,7 @@ Execute cada um deles separadamente
 * [zsh](http://www.zsh.org/)
 * [fish](https://fishshell.com)
 * [nvm](https://github.com/creationix/nvm)
+* [dotnet](https://www.microsoft.com/net/core#macos)
 * [z](https://github.com/rupa/z)
 
 ### Brew Cask
@@ -183,7 +184,7 @@ Eu me inspirei no dotfiles do PaulIrish, que se inspirou no do mathias. A ideia 
 sh ~/.dotfiles/.osx
 ```
 
-## 9. Configure o shell padrão para o ZSH e instale o OH-My-ZSH
+## 8. Configure o shell padrão para o ZSH e instale o OH-My-ZSH
 
 Quanto estava usando Windows sempre quis usar um terminal elegante, bonito e prático. Testei alguns, comecei com o bash, depois fui para o fish e finalmente caí no zsh, foi o que mais gostei, ainda mais quando descobri o Oh My ZSH, que é um conjunto de configurações e plugins/temas, que facilitam muito o uso.
 
@@ -221,23 +222,23 @@ Após realizar essa configuração deverá fechar o iTerm2 e abrir novamente. Se
 
 ![Terminal com OH-My-ZSH](img/terminal_oh_my_zsh.gif)
 
-## 8. Configure o [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) como browser Default.
+## 9. Configure o [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) como browser Default.
 
 1. Abra System Preferences
 2. General ➜ Default Web Browser
 3. Selecione “Chrome Canary” from the drop-down menu
 
 
-## 7. Install [Alfred](http://alfredapp.com) Workflows
+## 10. Configurar os workflows do [Alfred](http://alfredapp.com) 
 
 Visite [minha coleção de workflows do Alfred](https://github.com/vcavalcante/alfred-workflows) for instructions.
 
-## 8. Set [NPM](http://npmjs.org) user
+## 10. Configure o usuário do [NPM](http://npmjs.org)
 
 ```sh
 npm adduser vcavalcante
 ```
 
-## 11. Profit!
+## 11. Trabalhe feliz!
 
 :)
