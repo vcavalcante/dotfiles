@@ -67,6 +67,7 @@ brew install rename
 brew install tree
 brew install zopfli
 brew install ffmpeg --with-libvpx
+brew install wifi-password
 
 brew install terminal-notifier
 brew install httpie
