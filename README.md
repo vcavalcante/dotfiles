@@ -247,13 +247,13 @@ Após realizar essa configuração deverá fechar o iTerm2 e abrir novamente. Se
 
 Visite [minha coleção de workflows do Alfred](https://github.com/vcavalcante/alfred-workflows) para ver se gosta, se gostar, é só clonar e abrir cada arquivo no alfred, isso já instalará cada um dos wokflows.
 
-## 10. Configure o usuário do [NPM](http://npmjs.org)
+## 11. Configure o usuário do [NPM](http://npmjs.org)
 
 ```sh
 npm adduser vcavalcante
 ```
 
-## 11. Trabalhe feliz!
+## 12. Trabalhe feliz!
 
 :)
 
