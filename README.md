@@ -22,7 +22,7 @@ Bom, dá para imaginar que já tive que configurar várias vezes as mesmas coisa
 
 Dotfiles nada mais são do que arquivos que começam com ".", por isso o nome, a maioria dos software no mac e no linux guardam suas configurações em arquivos e por convenção começam com "." (esses arquivos são ocultos).
 
-A ideia é que você possa guardar esses arquivos e restaurar na sua nova máquina e vai ter de volta as configurações que você já estava acostumado, mas os Dotfiles sózinhos não fazem mágica, por isso escrevi esse manual, além deles vamos usar scripts shell para automatizar algumas coisas, brew para instalar software, e outras coisinhas a mais.
+A ideia é que você possa guardar esses arquivos e restaurar na sua nova máquina e vai ter de volta as configurações que você já estava acostumado, mas os Dotfiles sozinhos não fazem mágica, por isso escrevi esse manual, além deles vamos usar scripts shell para automatizar algumas coisas, brew para instalar software, e outras coisinhas a mais.
 
 ## 1. Atualize seu Mac OS X
 
@@ -50,13 +50,13 @@ Clone o repositório para o direto ~/.dotfiles
 git clone https://github.com/vcavalcante/dotfiles.git ~/.dotfiles
 ```
 
-Agora temos todos os arquivos necessários no computador mas ainda não está no lugar correto, e aqui é que vem o pulo do gato, depois de termos baixado o que falta, iremos criar um link symbolico desses arquivos que estão no .dotfiles para a raiz do seu usuário (~/). Assim podemos manter esses arquivos serparados um diretório que está dentro do repositório git.
+Agora temos todos os arquivos necessários no computador mas ainda não está no lugar correto, e aqui é que vem o pulo do gato, depois de termos baixado o que falta, iremos criar um link simbolico desses arquivos que estão no .dotfiles para a raiz do seu usuário (~/). Assim podemos manter esses arquivos serparados um diretório que está dentro do repositório git.
 
 Mas antes vamos instalar algumas coisas:
 
 ## 4. Instalando os Softwares
 
-Tento instalar tudo via Homebrew ou Brew Cask, enquanto o [Homebrew project](http://brew.sh/) é um projeto que foi desenvolvido para gerenciar pacotes para o Mac OS X, o Brew Cask é uma extensão desse mesmo projeto que permite instalção de aplicações gráficas, como Browsers, IDEs e tudo mais.
+Tento instalar tudo via Homebrew ou Brew Cask, enquanto o [Homebrew project](http://brew.sh/) é um projeto que foi desenvolvido para gerenciar pacotes para o Mac OS X, o Brew Cask é uma extensão desse mesmo projeto que permite instalação de aplicações gráficas, como Browsers, IDEs e tudo mais.
 
 Primeiro verifique se o brew já está instalado se não estiver, instale:
 
@@ -213,7 +213,7 @@ Depois instale o Oh-My-ZSH
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-Para ficar bonito precisa setar o tema do iTerm para usar o tema solarized dark
+Para ficar bonito precisa ajustar o tema do iTerm para usar o tema solarized dark
 
 1. iTerm2 -> Preferences
 2. Profiles 
@@ -245,7 +245,7 @@ Após realizar essa configuração deverá fechar o iTerm2 e abrir novamente. Se
 
 ## 10. Configurar os workflows do [Alfred](http://alfredapp.com) 
 
-Visite [minha coleção de workflows do Alfred](https://github.com/vcavalcante/alfred-workflows) for instructions.
+Visite [minha coleção de workflows do Alfred](https://github.com/vcavalcante/alfred-workflows) para ver se gosta, se gostar, é só clonar e abrir cada arquivo no alfred, isso já instalará cada um dos wokflows.
 
 ## 10. Configure o usuário do [NPM](http://npmjs.org)
 
