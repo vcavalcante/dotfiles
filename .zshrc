@@ -9,6 +9,7 @@
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="agnoster"
 
+unsetopt AUTO_CD
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
