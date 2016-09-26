@@ -175,7 +175,7 @@ npm install --global trash-cli
 
 ```sh
 git clone https://github.com/rupa/z.git ~/code/z
-chmod +x ~/code/z/z.s
+chmod +x ~/code/z/z.sh
 ```
 
 ## 6. Configure o git
