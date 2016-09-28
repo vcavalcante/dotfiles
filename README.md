@@ -213,18 +213,20 @@ Depois instale o Oh-My-ZSH
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-Para ficar bonito precisa ajustar o tema do iTerm para usar o tema solarized dark
-
-1. iTerm2 -> Preferences
-2. Profiles 
-3. Colors
-4. Color Presets... -> Selecione Solarized Dark
-
 Instale as fonts do powerline
 
 ```sh
 cp ~/.dotfiles/fonts/. /Library/Fonts/
 ```
+
+Para ficar bonito precisa ajustar o tema do iTerm para usar o tema solarized dark e a fonte do powerline
+
+1. iTerm2 -> Preferences
+2. Profiles 
+3. Colors
+4. Color Presets... -> Selecione Solarized Dark
+5. Ainda em Profiles selecione Text
+6. Mude a font para Mezlo LG M DZ for powerline
 
 Para finalizar a configuração do terminal é necessário linkar os dotfiles que estão do diretório `~/.dotfiles` para o diretório `~/`, para isso execute o commando abaixo:
 
