@@ -231,6 +231,7 @@ Para ficar bonito precisa ajustar o tema do iTerm para usar o tema solarized dar
 Para finalizar a configuração do terminal é necessário linkar os dotfiles que estão do diretório `~/.dotfiles` para o diretório `~/`, para isso execute o commando abaixo:
 
 ```sh
+cd ~/.dotfiles
 ~/.dotfiles/symlink-setup.sh
 ```
 
