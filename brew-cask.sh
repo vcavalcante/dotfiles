@@ -24,7 +24,7 @@ brew cask install imageoptim
 brew cask install visual-studio-code
 brew cask install sourcetree
 brew cask install dotnet
-brew cask install docker-toobox
+brew cask install docker-toolbox
 
 # browsers
 brew cask install google-chrome-canary
@@ -46,6 +46,7 @@ brew cask install spotify
 brew cask install lastpass
 brew cask install caffeine
 brew cask install dash
+brew cask install evernote
 brew install Caskroom/cask/evernote
 brew cask install the-unarchiver
 
