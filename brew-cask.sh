@@ -14,6 +14,7 @@ brew tap caskroom/versions
 brew cask install spectacle
 brew cask install dropbox
 brew cask install gyazo
+brew cask install slack
 
 # dev
 brew cask install iterm2
@@ -23,6 +24,7 @@ brew cask install imageoptim
 brew cask install visual-studio-code
 brew cask install sourcetree
 brew cask install dotnet
+brew cask install docker-toobox
 
 # browsers
 brew cask install google-chrome-canary
