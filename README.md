@@ -137,6 +137,7 @@ Execute cada um deles separadamente
 * [imagealpha](https://pngmini.com/)
 * [imageoptim](https://imageoptim.com/)
 * [visual-studio-code](https://code.visualstudio.com/)
+* [Parallels desktop](https://parallels.com)
 
 #### Browsers 
 
