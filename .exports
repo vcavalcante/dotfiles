@@ -14,4 +14,8 @@ export PATH=$PATH:/usr/local/Cellar/mtr/0.87/sbin
 
 export PATH=$PATH:/usr/local/share/dotnet/dotnet
 
+export ANDROID_HOME="/Users/vcavalcante/Library/Android/android-sdk-macosx"
 
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home"
+
+export PATH=$PATH:$JAVA_HOME:$ANDROID_HOME:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
