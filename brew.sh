@@ -24,10 +24,7 @@ brew install gnu-sed --default-names
 brew install bash
 # regular bash-completion package is held back to an older release, so we get latest from versions.
 #   github.com/Homebrew/homebrew/blob/master/Library/Formula/bash-completion.rb#L3-L4
-brew tap homebrew/versions
-brew install bash-completion2
-
-brew install homebrew/completions/brew-cask-completion
+brew install bash-completion@2
 
 # generic colouriser  http://kassiopeia.juls.savba.sk/~garabik/software/grc/
 brew install grc
@@ -37,15 +34,15 @@ brew install wget --enable-iri
 
 # Install more recent versions of some OS X tools
 brew install vim --override-system-vi
-brew install homebrew/dupes/grep
-brew install homebrew/dupes/screen
+brew install grep
+brew install screen
 
 
 # run this script when this file changes guy.
 brew install entr
 
-# github util. imho better than hub
-brew install gh
+# github util. 
+brew install hub
 
 
 # mtr - ping & traceroute. best.
@@ -72,7 +69,7 @@ brew install wifi-password
 brew install terminal-notifier
 brew install httpie
 
-brew install android-platform-tools
+
 brew install pidcat   # colored logcat guy
 
 brew install zsh

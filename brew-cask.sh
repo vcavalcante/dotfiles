@@ -7,7 +7,6 @@
 
 # Install native apps
 
-brew install caskroom/cask/brew-cask
 brew tap caskroom/versions
 
 # daily
@@ -25,30 +24,25 @@ brew cask install visual-studio-code
 brew cask install sourcetree
 brew cask install dotnet
 brew cask install docker-toolbox
-brew cask install parallels-desktop
 
 # browsers
-brew cask install google-chrome-canary
-brew cask install firefoxnightly
-brew cask install webkit-nightly
-brew cask install chromium
-brew cask install torbrowser
+brew cask install google-chrome
+brew cask install firefox
+
 
 
 # less often
 brew cask install disk-inventory-x
 brew cask install vlc
-brew cask install gpgtools
+brew cask install gpg-suite
 brew cask install licecap
-brew cask install utorrent
 brew cask install alfred
 brew cask install skype
 brew cask install spotify
-brew cask install lastpass
+brew cask install 1password
 brew cask install caffeine
 brew cask install dash
 brew cask install evernote
-brew install Caskroom/cask/evernote
 brew cask install the-unarchiver
 
 
