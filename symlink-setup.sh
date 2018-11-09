@@ -179,7 +179,7 @@ main() {
         fi
 
     done
-
+    cp bullet-train.zsh-theme ~/.oh-my-zsh/themes
 }
 
 main
