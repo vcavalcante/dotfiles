@@ -12,8 +12,9 @@ brew tap caskroom/versions
 # daily
 brew cask install spectacle
 brew cask install dropbox
-brew cask install gyazo
-brew cask install slack
+brew cask install microsoft-teams
+brew cask install 1password
+
 
 # dev
 brew cask install iterm2
@@ -28,7 +29,7 @@ brew cask install docker-toolbox
 # browsers
 brew cask install google-chrome
 brew cask install firefox
-
+brew cask install brave-browser
 
 
 # less often
