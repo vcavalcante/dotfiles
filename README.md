@@ -117,17 +117,15 @@ Execute cada um deles separadamente
 
 #### Uso diário
 
-* [spectacle](https://spectacleapp.com/)
+* [1Password](https://1password.com/)
 * [dropbox](http://dropbox.com)
-* [gyazo](https://gyazo.com/)
-
+* [Teams] Microsoft Teams
 
 #### Browser
 
-* [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/)
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
-* [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html)
-* [Opera Next](http://www.opera.com/computer/next)
+* [Firefox](https://www.firefox.com)
+* [Brave](https://www.brave.com)
 
 #### Development
 
