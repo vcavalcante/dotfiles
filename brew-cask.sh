@@ -22,7 +22,7 @@ brew cask install imagealpha
 brew cask install imageoptim
 brew cask install visual-studio-code
 brew cask install sourcetree
-brew cask install dotnet
+brew cask install dotnet-sdk
 brew cask install docker-toolbox
 
 # browsers

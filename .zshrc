@@ -88,5 +88,3 @@ source ~/.functions
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # ioalias ohmyzsh="mate ~/.oh-my-zsh"
-
-. <(azure --completion)

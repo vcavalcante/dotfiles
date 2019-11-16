@@ -22,46 +22,12 @@
 
 	reup = rebase-update
 
-
-
-
 [color]
 	ui = always
 
 [core]
 	excludesfile = ~/.gitignore
 	attributesfile = ~/.gitattributes
-	# insanely beautiful diffs
-	pager = diff-highlight | diff-so-fancy | less -r
-[color "branch"]
-	current = yellow reverse
-	local = yellow
-	remote = green
-[color "diff"]
-	meta = yellow bold
-	commit = green bold
-	frag = magenta bold
-	old = red bold
-	new = green bold
-	whitespace = red reverse
-[color "status"]
-	added = yellow
-	changed = green
-	untracked = cyan
-[merge]
-	tool = opendiff
-
-
-[color "diff-highlight"]
-	oldNormal = red bold
-	oldHighlight = "red bold 52"
-	newNormal = "green bold"
-	newHighlight = "green bold 22"
-
-
-
-
-
 [include]
   # For username / github token / etc
   path = ~/.gitconfig.local
