@@ -7,10 +7,9 @@
 
 # Install native apps
 
-brew tap caskroom/versions
+brew tap homebrew/cask-versions
 
 # daily
-brew cask install spectacle
 brew cask install dropbox
 brew cask install microsoft-teams
 brew cask install 1password
@@ -40,7 +39,6 @@ brew cask install licecap
 brew cask install alfred
 brew cask install skype
 brew cask install spotify
-brew cask install 1password
 brew cask install caffeine
 brew cask install dash
 brew cask install evernote
