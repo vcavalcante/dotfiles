@@ -215,7 +215,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 Instale as fonts do powerline
 
 ```sh
-cp ~/.dotfiles/fonts/. /Library/Fonts/
+cp ~/.dotfiles/fonts/*.* /Library/Fonts/
 ```
 
 Para ficar bonito precisa ajustar o tema do iTerm para usar o tema solarized dark e a fonte do powerline
