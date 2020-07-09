@@ -16,7 +16,7 @@ brew install moreutils
 # GNU `find`, `locate`, `updatedb`, and `xargs`, `g`-prefixed
 brew install findutils
 # GNU `sed`, overwriting the built-in `sed`
-brew install gnu-sed --default-names
+brew install gnu-sed 
 
 
 # Bash 4
@@ -30,10 +30,10 @@ brew install bash-completion@2
 brew install grc
 
 # Install wget with IRI support
-brew install wget --enable-iri
+brew install wget 
 
 # Install more recent versions of some OS X tools
-brew install vim --override-system-vi
+brew install vim 
 brew install grep
 brew install screen
 
@@ -57,13 +57,13 @@ brew install mtr
 # Install other useful binaries
 brew install sift
 brew install git
-brew install imagemagick --with-webp
+brew install imagemagick
 brew install node # This installs `npm` too using the recommended installation method
 brew install pv
 brew install rename
 brew install tree
 brew install zopfli
-brew install ffmpeg --with-libvpx
+brew install ffmpeg 
 brew install wifi-password
 
 brew install terminal-notifier
