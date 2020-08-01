@@ -15,6 +15,7 @@ brew cask install microsoft-teams
 brew cask install 1password
 brew cask install microsoft-office
 brew cask install google-drive-file-stream
+brew cast install obinslab-starter
 
 
 
