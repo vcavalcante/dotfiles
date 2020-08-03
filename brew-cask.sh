@@ -28,6 +28,7 @@ brew cask install visual-studio-code
 brew cask install sourcetree
 brew cask install dotnet-sdk
 brew cask install docker-toolbox
+brew cask install azure-data-studio
 
 # browsers
 brew cask install google-chrome
