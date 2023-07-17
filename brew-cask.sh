@@ -10,44 +10,47 @@
 brew tap homebrew/cask-versions
 
 # daily
-brew cask install dropbox
-brew cask install microsoft-teams
-brew cask install 1password
-brew cask install microsoft-office
-brew cask install google-drive-file-stream
-brew cast install obinslab-starter
+brew install --cask dropbox
+brew install --cask microsoft-teams
+brew install --cask 1password
+brew install --cask microsoft-office
+brew install --cask google-drive-file-stream
+brew install --cask cheatsheet
+brew install --cask google-drive
+
 
 
 
 # dev
-brew cask install iterm2
-brew cask install sublime-text
-brew cask install imagealpha
-brew cask install imageoptim
-brew cask install visual-studio-code
-brew cask install sourcetree
-brew cask install dotnet-sdk
-brew cask install docker-toolbox
-brew cask install azure-data-studio
+brew install --cask iterm2
+brew install --cask sublime-text
+brew install --cask imagealpha
+brew install --cask imageoptim
+brew install --cask visual-studio-code
+brew install --cask sourcetree
+brew install --cask dotnet-sdk
+brew install --cask docker-toolbox
+brew install --cask azure-data-studio
 
 # browsers
-brew cask install google-chrome
-brew cask install firefox
-brew cask install brave-browser
+brew install --cask google-chrome
+brew install --cask firefox
+brew install --cask brave-browser
 
 
 # less often
-brew cask install disk-inventory-x
-brew cask install vlc
-brew cask install gpg-suite
-brew cask install licecap
-brew cask install alfred
-brew cask install skype
-brew cask install spotify
-brew cask install caffeine
-brew cask install dash
-brew cask install evernote
-brew cask install the-unarchiver
+brew install --cask disk-inventory-x
+brew install --cask vlc
+brew install --cask gpg-suite
+brew install --cask licecap
+brew install --cask alfred
+brew install --cask skype
+brew install --cask spotify
+brew install --cask caffeine
+brew install --cask dash
+brew install --cask evernote
+brew install --cask the-unarchiver
+brew install --cask shottr
 
 
 

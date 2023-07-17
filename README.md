@@ -28,7 +28,7 @@ A ideia é que você possa guardar esses arquivos e restaurar na sua nova máqui
 
 Garanta que está tudo atualizado.
 
-![Software Update](http://f.cl.ly/items/382O04411U0a1i0G2E3j/software-update.png)
+![Software Update](https://macreports.com/wp-content/uploads/2022/03/software-update-768x274.png)
 
 ## 2. Instale o [Xcode](https://developer.apple.com/xcode/) e o ["Command Line Tools"](https://developer.apple.com/downloads/index.action)
 
@@ -61,7 +61,7 @@ Tento instalar tudo via Homebrew ou Brew Cask, enquanto o [Homebrew project](htt
 Primeiro verifique se o brew já está instalado se não estiver, instale:
 
 ```sh
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 Temos 2 scripts dentro do repositório para realizar as instalações dos softwares, são eles:
